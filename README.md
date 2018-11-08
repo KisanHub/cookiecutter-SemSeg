@@ -1,6 +1,6 @@
 # Cookiecutter Data Science
 
-_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
+_A project template for Semantic Segmentation workflows, heavily influenced by the [Data Science Cookiecutter project](http://drivendata.github.io/cookiecutter-data-science/)._
 
 
 #### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
@@ -35,7 +35,7 @@ $ conda install cookiecutter
 ### The resulting directory structure
 ------------
 
-The directory structure of your new project looks like this: 
+The directory structure of your new project looks like this:
 
 ```
 ├── LICENSE
